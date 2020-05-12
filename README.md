@@ -1,5 +1,5 @@
 # covid-19
-O coronavirus é uma família de virus que causam infecções respiratórias. O novo coronavírus foi descoberto em 31/12/2019 na China, e desde então tem se espalhado pelo mundo todo. Hoje o vírus ja atingiu mais de 4,2 milhões de pessoas e causou aproximadamente 290 mil mortes. O número tem aumentado cada vez mais desde então. Por esta razão foi iniciado um estudo para desenvolver uma ferramenta para visualizar e prever os casos Brasil utilizando métodos estatísticos de previsão.
+O coronavirus é uma família de virus que causam infecções respiratórias. O novo coronavírus foi descoberto em 31/12/2019 na China, e desde então tem se espalhado pelo mundo todo. Hoje o vírus ja atingiu mais de 4,2 milhões de pessoas e causou aproximadamente 290 mil mortes. O número tem aumentado cada vez mais desde então. Por esta razão foi iniciado um estudo para desenvolver uma ferramenta para visualizar e prever os casos no Brasil utilizando métodos estatísticos de previsão.
 
 # bibliotecas
 numpy,
@@ -7,7 +7,7 @@ pandas,
 seaborn,
 matplotlib
 
-# resultados
+# resultados parte 1 (Visualização de dados)
 
 A seguir estão alguns resultados obtidos pelas informações fornecidas pelo Ministério da Saúde.
 
@@ -28,6 +28,9 @@ A seguir estão alguns resultados obtidos pelas informações fornecidas pelo Mi
 ## visualização comparativa de todos os Estados
 ![casos_por_mi_Estados](https://user-images.githubusercontent.com/59963253/81744837-1f48b100-947a-11ea-9c88-7644fd155c4c.png)
 ![obitos_por_mi_Estados](https://user-images.githubusercontent.com/59963253/81744843-2243a180-947a-11ea-8ab6-f3743f07232d.png)
+
+# resultados parte 2 (Previsão de casos e óbitos)
+Em desenvolvimento
 
 # referências
 https://covid.saude.gov.br/
